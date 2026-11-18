@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-sqlalchemy
+werkzeug
+opencv-python
+mediapipe
+Pillow
+scikit-learn
+scikit-image
+numpy
+scipy
+joblib
+pytesseract
+pandas
